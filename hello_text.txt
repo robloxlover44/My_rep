@@ -1,0 +1,1 @@
+Текст в ветке master new_branch
